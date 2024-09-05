@@ -1,4 +1,4 @@
-mxkb
+maxkb
 docker.io/victoriametrics/operator
 docker.io/victoriametrics/victoria-metrics
 docker.io/victoriametrics/vmalert
