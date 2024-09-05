@@ -1,9 +1,1 @@
 cr2.fit2cloud.com/1panel/maxkb
-docker.io/victoriametrics/operator
-docker.io/victoriametrics/victoria-metrics
-docker.io/victoriametrics/vmalert
-docker.io/victoriametrics/vminsert
-docker.io/victoriametrics/vmselect
-docker.io/victoriametrics/vmstorage
-docker.io/weaveworks/weave-kube
-docker.io/weaveworks/weave-npc
