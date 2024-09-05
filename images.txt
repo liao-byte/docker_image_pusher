@@ -1,1 +1,1 @@
-library/nginx
+docker.io/amambadev/jenkins
