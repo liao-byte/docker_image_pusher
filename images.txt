@@ -1,4 +1,4 @@
-maxkb
+cr2.fit2cloud.com/1panel/maxkb
 docker.io/victoriametrics/operator
 docker.io/victoriametrics/victoria-metrics
 docker.io/victoriametrics/vmalert
